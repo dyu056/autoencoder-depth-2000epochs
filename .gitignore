@@ -1,0 +1,10 @@
+data/
+runs/
+__pycache__/
+.ipynb_checkpoints/
+*.tar.gz
+.DS_Store
+manifest.json
+run_notebook.py
+queue_worker.py
+original_notebooks/

@@ -1,0 +1,9 @@
+{
+  "filename": "autoencoder-balls-128.tar.gz",
+  "url": "https://github.com/dyu056/autoencoder-depth-2000epochs/releases/download/v1.0/autoencoder-balls-128.tar.gz",
+  "sha256": "4792cac866adbaf87c274942584dd97ddb5a28c5d60c4839f01ca458027e136c",
+  "counts": {
+    "train": 257,
+    "test": 193
+  }
+}
