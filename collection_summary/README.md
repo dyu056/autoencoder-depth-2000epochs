@@ -12,4 +12,4 @@ Seed 20260917; fresh initialization; batch 4; Adam 0.001; no early stopping.
 
 ![Training and validation curves](combined_loss.png)
 
-Best weights minimize validation MSE; final weights are epoch 2000. Reconstruction HTML uses final weights. A loss plateau does not establish good reconstruction quality. Longer training does not guarantee improvement; compare best and final checkpoints. Notebooks retain server paths and require the original dataset/environment to rerun.
+Best weights minimize validation MSE; final weights are epoch 2000. Reconstruction HTML uses final weights. A loss plateau does not establish good reconstruction quality. Longer training does not guarantee improvement; compare best and final checkpoints. Portable notebooks use data/balls_128 by default or AE_DATASET_ROOT. Run download_data.py first; see the repository README for environment setup.
